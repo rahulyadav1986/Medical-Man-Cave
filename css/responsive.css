@@ -1,0 +1,185 @@
+
+@media only screen and (max-width:1366px){
+   .benifit .common{
+      padding: 0 15px;
+  }
+}
+
+@media only screen and (max-width: 1200px){
+   
+   .header-top{
+      padding: 50px 0;
+   }
+   .logo_area{
+      padding: 30px 0;
+   }
+	.logo_area img{
+      width: 50%; float: left;
+   }
+   .header-main nav ul li a{
+      padding: 24px 17px !important;     font-size: 10px;
+   }
+   .dp-caption h2{
+      font-size: 40px;     line-height: 41px;
+   }
+   .dp-caption p{
+      font-size: 14px; line-height: 24px;
+   }
+   .about-heading h2{
+      margin-right: 0;     font-size: 36px; line-height: 41px;
+   }
+   .our_gallery_back .about-heading h2{
+      font-size: 36px;  line-height: 41px;
+   }
+   .our_pricing_back .about-heading h2{
+      font-size: 36px;  line-height: 41px;
+     }
+
+   .video_back .about-heading h2{
+      font-size: 36px;  line-height: 41px;
+   }
+   .services .portion .content_back h3{
+      font-size: 30px; 
+   }
+  
+  
+  
+   .custom-about-us .about-us-content p{
+      font-size: 12px;
+   }
+   .abt-list li{
+      font-size: 12px; background-size: auto; padding-top: 5px; padding-bottom: 5px;     margin-bottom: 6px;
+   }
+   .about-img-item img {
+      height: 672px;
+   }
+   .custom-bannerr img{
+      height: 450px;
+   }
+   .about-us-img-caro{
+      position: relative; width: 100%; margin-top: 30px;
+   }
+   .custom-about-us .inherit{
+      position: relative;
+   }
+
+   .benifit .about-heading h2{
+      font-size: 24px;
+      line-height: 38px;
+   }
+   .benifit .right_details:before{
+      top: 87px;
+   }
+   
+   
+}
+
+
+@media only screen and (max-width: 991px) {    
+   .menu ul{ display: none;}
+   .slicknav_menu{ display: block}
+   .benifit .about-heading h2 {
+      font-size: 36px;
+      line-height: 51px;
+  }
+  .benifit .right_details:before {
+      top: 70px;
+   }
+}
+
+
+@media (max-width: 767px){
+    
+}
+@media only screen and (max-width: 500px) {	
+   .custom-bannerr .carousel-caption.dp-caption{
+      text-align: center;
+   }  
+   .custom-bannerr .dp-caption p{
+      padding: 0 20px;
+   }
+   .custom-bannerr .dp-caption h2 {
+      font-size: 30px;
+      line-height: 34px;
+  }
+   .custom-bannerr .carousel-item::after{
+      width: 100%; height: 100%; background-color: rgba(0,0,0,.5); content: ""; position: absolute; top: 0; left: 0;
+   }
+   .about-img-item img {
+      height: 405px;
+  }
+  .pl-5, .px-5 {
+      padding-left: 15px !important;
+   }
+   .custom-about-us .about-us-content{
+      padding-top: 30px;
+   }
+   .about-heading h2 {
+      margin-right: 0;
+      font-size: 26px;
+      line-height: 31px;
+  }
+  .our_pricing_back .about-heading h2{
+   font-size: 26px;
+   line-height: 31px;
+  }
+  .our_gallery_back .about-heading h2{
+      font-size: 26px;  line-height: 31px;
+   }
+   .our_pricing_back .mian_pricing_back .back{
+      width: 100%;
+   }
+   .our_pricing_back .mian_pricing_back .back::after{
+      display: none;
+   }
+   .facts_back .content_area{
+      margin: 0; padding: 15px  15px 30px 15px;
+   }
+   .video_back .about-heading h2{
+      font-size: 26px;  line-height: 31px;
+   }
+   .services .portion .content_back h3{
+      font-size: 20px; 
+   }
+   .services .portion .content_back p{
+      font-size: 15px;
+   }
+   .video_back h5{
+      font-size: 20px;
+   }
+   .video_back{background-position: right center;}
+
+   .benifit .about-heading h2 {
+      font-size: 26px;  line-height: 31px;
+  }
+  .benifit .right_details:before{
+     display: none;
+  }
+  .benifit .right_details:after{
+   display: none;
+}
+.benifit .right_details .portion{
+   border-bottom: #717171 1px solid;
+}
+.benifit .right_details .col-md-6:last-child .portion{
+   border-bottom: none;
+}
+.benifit{
+   text-align: center;
+}
+.benifit .right_details .portion p{
+   width: 100%;
+}
+.testimonial .main_testimonials .item .portion{
+   padding: 100px 15px 50px 15px;
+}
+.testimonial .main_testimonials .item .portion p{
+   font-size: 14px; line-height: 26px;
+}
+.testimonial .main_testimonials .owl-item{
+   padding-left: 15px; padding-right: 15px;
+}
+.benifit .about-heading{padding: 0;}
+   
+}
+

@@ -65,3 +65,22 @@ jQuery('#testimonial').owlCarousel({
     }
 });
 
+jQuery('#client').owlCarousel({
+    loop:true,
+    margin:140,
+    nav:false,
+	dots:false,
+	navText : ["<i class='fas fa-arrow-left'></i>","<i class='fas fa-arrow-right'></i>"],
+    responsive:{
+        0:{
+            items:2
+        },
+        600:{
+            items:4
+        },
+        1000:{
+            items:4
+        }
+    }
+});
+

@@ -70,6 +70,22 @@
    .benifit .right_details:before{
       top: 87px;
    }
+
+   footer .footer_logo img{
+      width: 50%;
+   }
+   footer .phone{
+      font-size: 30px;
+   }
+   footer .phone img{
+      width: 40px;
+   }
+   footer .email{
+      font-size: 30px;
+   }
+   footer .email img{
+      width: 40px;
+   }
    
    
 }
@@ -180,6 +196,28 @@
    padding-left: 15px; padding-right: 15px;
 }
 .benifit .about-heading{padding: 0;}
+
+
+footer .phone{
+   font-size: 22px;
+}
+footer .phone img{
+   width: 30px;
+}
+footer .email{
+   font-size: 22px;
+}
+footer .email img{
+   width: 30px;
+}
+.copy_right p{
+   font-size: 13px;
+   line-height: 26px;
+}
+.client_logo{
+   padding: 40px 0;
+}
+
    
 }
 

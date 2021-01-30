@@ -1,4 +1,4 @@
 # Medical-Man-Cave
 
 user : admin
-pass: admin2123
+pass: admin@123
